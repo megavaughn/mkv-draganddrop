@@ -16,4 +16,4 @@ Simply place a copy (or shortcut) of mkvme.bat on your desktop and drag 1 or mor
 
 ## Requires
 1. Windows XP or higher (only tested with Windows 7, 8 and 10)
-2. ffmpeg to be installed and in your system PATH
+2. ffmpeg to be installed and in your system PATH (tested with ffmpeg v3.2.2)
