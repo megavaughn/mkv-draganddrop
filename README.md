@@ -1,5 +1,8 @@
 # mkv-draganddrop
-A Windows batch file that allows video files to be dragged onto it for automatic transcoding (using ffmpeg) to a high quality MKV file. This is meant to be simple, easily customizable and quick (drag and drop) for people to use.
+A Windows batch file that allows video files to be dragged onto it for automatic transcoding (using ffmpeg) to a high quality MKV file.</br></br>
+This is meant to be simple, easily customizable and quick (drag and drop, yeah!) for people to use.
+## Usage
+Simply place a copy (or shortcut) of mkvme.bat on your desktop and drag 1 or more video files to it! Voila!!
 
 ## Installation
 1. Install the latest version of ffmpeg (https://www.ffmpeg.org/) onto your Windows machine.
