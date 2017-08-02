@@ -2,7 +2,7 @@
 A Windows batch file that allows video files to be dragged onto it for automatic transcoding (using ffmpeg) to a high quality MKV file.</br></br>
 This is meant to be simple, easily customizable and quick (drag and drop, yeah!) for people to use.
 ## Usage
-Simply place a copy (or shortcut) of mkvme.bat on your desktop and drag 1 or more video files to it! The following files will be output:
+Simply place a copy (or shortcut) of mkvme.bat on your desktop and drag 1 or more video files to it! For each file dragged to it, the following files will be output:
 1. An mkv file at a visually lossless quality and relatively small file size with all audio and subtitle tracks copied from the original.
 2. A log file containing the output (and any errors) from ffmpeg as it transcoded the input file.
 3. A hash file containing the MD5 hash of the output file. This is useful for archiving or transfer.
